@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+    <TaskList id="3" name="Mom">
+        <Task id="1" status="in progress">blblabla</Task>
+        <Task id="2" status="in progress">Go to the supermakets</Task>
+    </TaskList>
+</Root>
